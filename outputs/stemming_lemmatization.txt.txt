@@ -1,0 +1,11 @@
+Word           Stemmed        Lemmatized
+Natural        natur          Natural
+language       languag        language
+processing     process        processing
+is             is             is
+a              a              a
+fascinating    fascin         fascinating
+area           area           area
+of             of             of
+computer       comput         computer
+science        scienc         science
